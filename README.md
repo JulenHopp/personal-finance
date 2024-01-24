@@ -1,7 +1,7 @@
 # Personal Finance Analysis
 
 ## Description
-The Personal Finance project is a comprehensive tool for conducting statistical analysis and linear regression on personal financial data. Designed in [Programming Language Used], this application allows users to input their own financial data (from an Excel file) and gain insights into their spending habits, income trends, and potential financial forecasting.
+The Personal Finance project is a comprehensive tool for conducting statistical analysis and linear regression on personal financial data. Designed in Python, this application allows users to input their own financial data (from an Excel file) and gain insights into their spending habits, income trends, and potential financial forecasting.
 
 ## Features
 - Statistical analysis of personal financial data.
@@ -9,8 +9,8 @@ The Personal Finance project is a comprehensive tool for conducting statistical 
 - Customizable input from an Excel file.
 
 ## Technologies Used
-- [Programming Language Used, e.g., Python, R]
-- [Any specific libraries or frameworks used]
+- [Python]
+- [Sklearn, Numpy, Matplotlib, Jupyter Notebook]
 
 ## Installation and Setup
 1. Clone the repository:
